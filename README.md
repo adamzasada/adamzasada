@@ -4,4 +4,4 @@
 - 💞️ I’m looking to develop our 0xKYC project from ETHWarsaw hackathon and to grow as a developer
 - 📫 How to reach me adag1oeth on Instagram
 
-GM 🤝 follow me on [Twitter](https://www.twitter.com/adag1oeth "adag1o's")
+GM 🤝 follow me on [Twitter](https://www.twitter.com/adag1oeth "adag1oeth")
