@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adamzasada
+- 👋 Hi, I’m @adamzasada aka adag1oeth
 - 👀 I’m interested in Web3 and Product Leadership
 - 🌱 I’m currently learning JavaScript, Ruby, CSS, HTML and SQL
 - 💞️ I’m looking to develop our 0xKYC project from ETHWarsaw hackathon and to grow as a developer
