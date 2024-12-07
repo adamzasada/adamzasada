@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Adam Zasada aka [adag1oeth](https://www.x.com/adag1oeth "adag1oeth")
-- 👀 I’m a founder of [Soul Agents](https://www.x.com/adag1oeth "Soul Agents") and an ex-founder of [0xKYC](https://www.x.com/0xKYCinc "0xKYC") (open-source decentralized identity protocol backed by Outlier Ventures, BuffiCorn Ventures and Celestia's CTO, amongst other angels 😇)
-- 🌱 I’m coding in TypeScript, JavaScript, Python, using MongoDB and learning Vector databases, and RAG-based systems. Experienced in Engineering Management, Web3 tech, building banks (including. Bank as a Service infrastructure for e.g. Revolut), and in general I am a little bit all over the place; fun fact: I've been the youngest coding student at PJWSTK (now PJATK, a leading technology university in Warsaw, Poland) at the age of 12, and I've also been a resident DJ at Café Mambo in Ibiza and played with Adam Port, Solomun, Tiga, Bicep and others... 
-- 💞️ I’m building autonomous A.I. agents with our team at [Soul Agents](https://www.x.com/adag1oeth "Soul Agents"), and I've even won a hackathon (3rd place) with my code - you can see it in my [trading](https://www.github.com/adamzasada/trading "trading") repo - while we work on the rest of the A.I. project together (to connect our A.I. agents to Trading, X etc.).
-- 📫 You can also reach me on: [LinkedIn](https://www.linkedin.com/in/azasada/ "LinkedIn")
-
-Also experienced as Hinkal's (leading privacy protocol) Ecosystem and Product Lead, and from other notable startups. 
+- 👋 Hi, I’m Adam Zasada aka [adag1oeth](https://www.x.com/adag1oeth/)
+- 👀 Founder of [Soul Agents](https://www.x.com/soul_agents/) — building autonomous AI agents for Web3—and ex-founder of [0xKYC](https://www.x.com/0xKYC/), an open-source decentralized identity protocol backed by Outlier Ventures, BuffiCorn Ventures and Celestia’s CTO, amongst other angels 😇.
+- 🌱 I code in TypeScript, Python, MongoDB, and Vector databases for RAG-based systems. Previously built Web3 and BaaS banking infrastructure (e.g., Revolut). Fun fact: I was the youngest coding student at PJWSTK (age 12) and also a DJ at Café Mambo in Ibiza, playing with Solomun and others.
+- 💞️ Currently developing AI-driven Web3 tools at Soul Agents, where we won 3rd place in a hackathon. Check out my code in the [trading](https://www.github.com/adamzasada/trading/) repo.
+- 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/azasada/).
