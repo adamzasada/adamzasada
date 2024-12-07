@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @adamzasada aka adag1o.eth
-- 👀 I’m interested in Web3 and Product Leadership
-- 🌱 I’m currently learning JavaScript, Ruby, CSS, HTML and SQL
-- 💞️ I’m looking to develop our 0xKYC project from ETHWarsaw hackathon and to grow as a developer
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/azasada/ "Adam Zasada's LinkedIn")
+- 👋 Hi, I’m @adamzasada aka [adag1oeth](https://www.x.com/adag1oeth "adag1oeth") too!
+- 👀 I’m a founder of Soul-Agents and an ex-founder of 0xKYC (open-source decentralized identity protocol)
+- 🌱 I’m coding in TypeScript, JavaScript, Python, using MongoDB and Vector databases, and have extensive knowledge about Engineering Management, Web3 tech, building banks (including. Bank as a Service infrastructure for e.g. Revolut), and in general I am a little bit all over the place
+- 💞️ I’m building autonomous A.I. agents with our team at [Soul Agents](https://www.x.com/adag1oeth "Soul Agents"), and I've even won a hackathon (3rd place) with my code - you can see it in my "trading" repo.
+- 📫 You can also reach me on: [LinkedIn](https://www.linkedin.com/in/azasada/ "LinkedIn")
 
-GM 🤝 follow me on [Twitter](https://www.twitter.com/adag1oeth "Adag1o's ;)") too!
-I have also learned and coded a little bit in Python
+GM 🤝 and let's fly to the moon, big Web3 believer, let's flip the economy!
